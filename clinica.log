@@ -1,0 +1,133 @@
+[2024-07-14 19:35:19] [ INFO ] [DentistDaoH2:29] Iniciando el guardado de un odontologo
+[2024-07-14 19:35:19] [ ERROR] [DentistDaoH2:51] Error:    Table "DENTIST" not found (this database is empty); SQL statement:
+INSERT INTO DENTIST(REGISTRATION, NAME, LASTNAME)VALUES(?, ?, ?) [42104-224]
+[2024-07-14 19:35:19] [ INFO ] [DentistDaoH2:29] Iniciando el guardado de un odontologo
+[2024-07-14 19:35:19] [ ERROR] [DentistDaoH2:51] Error:    Table "DENTIST" not found (this database is empty); SQL statement:
+INSERT INTO DENTIST(REGISTRATION, NAME, LASTNAME)VALUES(?, ?, ?) [42104-224]
+[2024-07-14 19:35:19] [ INFO ] [DentistDaoH2:29] Iniciando el guardado de un odontologo
+[2024-07-14 19:35:19] [ ERROR] [DentistDaoH2:51] Error:    Table "DENTIST" not found (this database is empty); SQL statement:
+INSERT INTO DENTIST(REGISTRATION, NAME, LASTNAME)VALUES(?, ?, ?) [42104-224]
+[2024-07-14 19:35:19] [ INFO ] [DentistDaoH2:66] Iniciando la busqueda de un odontologo por id
+[2024-07-14 19:35:19] [ ERROR] [DentistDaoH2:89] Error: Table "DENTIST" not found (this database is empty); SQL statement:
+SELECT * FROM DENTIST WHERE ID = ?  [42104-224]
+[2024-07-14 19:37:09] [ INFO ] [DentistDaoH2:29] Iniciando el guardado de un odontologo
+[2024-07-14 19:37:10] [ ERROR] [DentistDaoH2:51] Error:    Table "DENTIST" not found (this database is empty); SQL statement:
+INSERT INTO DENTIST(REGISTRATION, NAME, LASTNAME)VALUES(?, ?, ?) [42104-224]
+[2024-07-14 19:37:10] [ INFO ] [DentistDaoH2:29] Iniciando el guardado de un odontologo
+[2024-07-14 19:37:10] [ ERROR] [DentistDaoH2:51] Error:    Table "DENTIST" not found (this database is empty); SQL statement:
+INSERT INTO DENTIST(REGISTRATION, NAME, LASTNAME)VALUES(?, ?, ?) [42104-224]
+[2024-07-14 19:37:10] [ INFO ] [DentistDaoH2:29] Iniciando el guardado de un odontologo
+[2024-07-14 19:37:10] [ ERROR] [DentistDaoH2:51] Error:    Table "DENTIST" not found (this database is empty); SQL statement:
+INSERT INTO DENTIST(REGISTRATION, NAME, LASTNAME)VALUES(?, ?, ?) [42104-224]
+[2024-07-14 19:37:10] [ INFO ] [DentistDaoH2:66] Iniciando la busqueda de un odontologo por id
+[2024-07-14 19:37:10] [ ERROR] [DentistDaoH2:89] Error: Table "DENTIST" not found (this database is empty); SQL statement:
+SELECT * FROM DENTIST WHERE ID = ?  [42104-224]
+[2024-07-14 19:38:42] [ INFO ] [DentistDaoH2:29] Iniciando el guardado de un odontologo
+[2024-07-14 19:38:43] [ INFO ] [DentistDaoH2:46] Se guardo el odontologo con exito!
+[2024-07-14 19:38:43] [ INFO ] [DentistDaoH2:29] Iniciando el guardado de un odontologo
+[2024-07-14 19:38:43] [ INFO ] [DentistDaoH2:46] Se guardo el odontologo con exito!
+[2024-07-14 19:38:43] [ INFO ] [DentistDaoH2:29] Iniciando el guardado de un odontologo
+[2024-07-14 19:38:43] [ INFO ] [DentistDaoH2:46] Se guardo el odontologo con exito!
+[2024-07-14 19:38:43] [ INFO ] [DentistDaoH2:66] Iniciando la busqueda de un odontologo por id
+[2024-07-14 19:38:43] [ INFO ] [DentistDaoH2:87] Consultamos el odontologo con el id: 2
+[2024-07-14 19:38:43] [ INFO ] [DentistDaoH2:103] Iniciando la actualizacion de un odontologo
+[2024-07-14 19:38:43] [ ERROR] [DentistDaoH2:119] Error: Error de Sintaxis en sentencia SQL "UPDATE DENTIST SET REGISTRATION = ?,NAME = ?,LASTNAME = ?,[*]WHERE ID = ?"; se esperaba "identifier"
+Syntax error in SQL statement "UPDATE DENTIST SET REGISTRATION = ?,NAME = ?,LASTNAME = ?,[*]WHERE ID = ?"; expected "identifier"; SQL statement:
+UPDATE DENTIST SET REGISTRATION = ?,NAME = ?,LASTNAME = ?,WHERE ID = ? [42001-224]
+[2024-07-14 19:38:43] [ INFO ] [DentistDaoH2:133] Iniciando la eliminacion de un odontologo
+[2024-07-14 19:38:43] [ ERROR] [DentistDaoH2:146] Error: Error de Sintaxis en sentencia SQL "DELETE [*]* FROM DENTIST WHERE ID = ? "; se esperaba "identifier"
+Syntax error in SQL statement "DELETE [*]* FROM DENTIST WHERE ID = ? "; expected "identifier"; SQL statement:
+DELETE * FROM DENTIST WHERE ID = ?  [42001-224]
+[2024-07-14 19:38:43] [ INFO ] [DentistDaoH2:161] Iniciando la busqueda de todos los odontologos
+[2024-07-14 19:38:43] [ INFO ] [DentistDaoH2:183] Se obtuvo el odontologo: Ricardo
+[2024-07-14 19:38:43] [ INFO ] [DentistDaoH2:183] Se obtuvo el odontologo: Rica
+[2024-07-14 19:38:43] [ INFO ] [DentistDaoH2:183] Se obtuvo el odontologo: Riqui
+[2024-07-14 19:38:43] [ INFO ] [DentistDaoH2:185] Se obtuvieron con exito todos los odontologos
+[2024-07-14 19:39:20] [ INFO ] [DentistDaoH2:29] Iniciando el guardado de un odontologo
+[2024-07-14 19:39:20] [ INFO ] [DentistDaoH2:46] Se guardo el odontologo con exito!
+[2024-07-14 19:39:20] [ INFO ] [DentistDaoH2:29] Iniciando el guardado de un odontologo
+[2024-07-14 19:39:20] [ INFO ] [DentistDaoH2:46] Se guardo el odontologo con exito!
+[2024-07-14 19:39:20] [ INFO ] [DentistDaoH2:29] Iniciando el guardado de un odontologo
+[2024-07-14 19:39:20] [ INFO ] [DentistDaoH2:46] Se guardo el odontologo con exito!
+[2024-07-14 19:39:21] [ INFO ] [DentistDaoH2:66] Iniciando la busqueda de un odontologo por id
+[2024-07-14 19:39:21] [ INFO ] [DentistDaoH2:87] Consultamos el odontologo con el id: 2
+[2024-07-14 19:39:21] [ INFO ] [DentistDaoH2:103] Iniciando la actualizacion de un odontologo
+[2024-07-14 19:39:21] [ ERROR] [DentistDaoH2:119] Error: Error de Sintaxis en sentencia SQL "UPDATE DENTIST SET REGISTRATION = ?,NAME = ?,LASTNAME = ?,[*]WHERE ID = ?"; se esperaba "identifier"
+Syntax error in SQL statement "UPDATE DENTIST SET REGISTRATION = ?,NAME = ?,LASTNAME = ?,[*]WHERE ID = ?"; expected "identifier"; SQL statement:
+UPDATE DENTIST SET REGISTRATION = ?,NAME = ?,LASTNAME = ?,WHERE ID = ? [42001-224]
+[2024-07-14 19:39:21] [ INFO ] [DentistDaoH2:133] Iniciando la eliminacion de un odontologo
+[2024-07-14 19:39:21] [ ERROR] [DentistDaoH2:146] Error: Error de Sintaxis en sentencia SQL "DELETE [*]* FROM DENTIST WHERE ID = ? "; se esperaba "identifier"
+Syntax error in SQL statement "DELETE [*]* FROM DENTIST WHERE ID = ? "; expected "identifier"; SQL statement:
+DELETE * FROM DENTIST WHERE ID = ?  [42001-224]
+[2024-07-14 19:39:21] [ INFO ] [DentistDaoH2:161] Iniciando la busqueda de todos los odontologos
+[2024-07-14 19:39:21] [ INFO ] [DentistDaoH2:183] Se obtuvo el odontologo: Ricardo
+[2024-07-14 19:39:21] [ INFO ] [DentistDaoH2:183] Se obtuvo el odontologo: Rica
+[2024-07-14 19:39:21] [ INFO ] [DentistDaoH2:183] Se obtuvo el odontologo: Riqui
+[2024-07-14 19:39:21] [ INFO ] [DentistDaoH2:185] Se obtuvieron con exito todos los odontologos
+[2024-07-14 19:39:59] [ INFO ] [DentistDaoH2:29] Iniciando el guardado de un odontologo
+[2024-07-14 19:39:59] [ INFO ] [DentistDaoH2:46] Se guardo el odontologo con exito!
+[2024-07-14 19:39:59] [ INFO ] [DentistDaoH2:29] Iniciando el guardado de un odontologo
+[2024-07-14 19:39:59] [ INFO ] [DentistDaoH2:46] Se guardo el odontologo con exito!
+[2024-07-14 19:39:59] [ INFO ] [DentistDaoH2:29] Iniciando el guardado de un odontologo
+[2024-07-14 19:39:59] [ INFO ] [DentistDaoH2:46] Se guardo el odontologo con exito!
+[2024-07-14 19:39:59] [ INFO ] [DentistDaoH2:66] Iniciando la busqueda de un odontologo por id
+[2024-07-14 19:39:59] [ INFO ] [DentistDaoH2:87] Consultamos el odontologo con el id: 2
+[2024-07-14 19:39:59] [ INFO ] [DentistDaoH2:103] Iniciando la actualizacion de un odontologo
+[2024-07-14 19:39:59] [ ERROR] [DentistDaoH2:119] Error: Error de Sintaxis en sentencia SQL "UPDATE DENTIST SET REGISTRATION = ?,NAME = ?,LASTNAME = ?,[*]WHERE ID = ?"; se esperaba "identifier"
+Syntax error in SQL statement "UPDATE DENTIST SET REGISTRATION = ?,NAME = ?,LASTNAME = ?,[*]WHERE ID = ?"; expected "identifier"; SQL statement:
+UPDATE DENTIST SET REGISTRATION = ?,NAME = ?,LASTNAME = ?,WHERE ID = ? [42001-224]
+[2024-07-14 19:40:00] [ INFO ] [DentistDaoH2:133] Iniciando la eliminacion de un odontologo
+[2024-07-14 19:40:00] [ ERROR] [DentistDaoH2:146] Error: Error de Sintaxis en sentencia SQL "DELETE [*]* FROM DENTIST WHERE ID = ? "; se esperaba "identifier"
+Syntax error in SQL statement "DELETE [*]* FROM DENTIST WHERE ID = ? "; expected "identifier"; SQL statement:
+DELETE * FROM DENTIST WHERE ID = ?  [42001-224]
+[2024-07-14 19:40:00] [ INFO ] [DentistDaoH2:161] Iniciando la busqueda de todos los odontologos
+[2024-07-14 19:40:00] [ INFO ] [DentistDaoH2:183] Se obtuvo el odontologo: Ricardo
+[2024-07-14 19:40:00] [ INFO ] [DentistDaoH2:183] Se obtuvo el odontologo: Rica
+[2024-07-14 19:40:00] [ INFO ] [DentistDaoH2:183] Se obtuvo el odontologo: Riqui
+[2024-07-14 19:40:00] [ INFO ] [DentistDaoH2:185] Se obtuvieron con exito todos los odontologos
+[2024-07-14 19:40:39] [ INFO ] [DentistDaoH2:29] Iniciando el guardado de un odontologo
+[2024-07-14 19:40:39] [ INFO ] [DentistDaoH2:46] Se guardo el odontologo con exito!
+[2024-07-14 19:40:39] [ INFO ] [DentistDaoH2:29] Iniciando el guardado de un odontologo
+[2024-07-14 19:40:39] [ INFO ] [DentistDaoH2:46] Se guardo el odontologo con exito!
+[2024-07-14 19:40:39] [ INFO ] [DentistDaoH2:29] Iniciando el guardado de un odontologo
+[2024-07-14 19:40:39] [ INFO ] [DentistDaoH2:46] Se guardo el odontologo con exito!
+[2024-07-14 19:40:39] [ INFO ] [DentistDaoH2:66] Iniciando la busqueda de un odontologo por id
+[2024-07-14 19:40:39] [ INFO ] [DentistDaoH2:87] Consultamos el odontologo con el id: 2
+[2024-07-14 19:40:39] [ INFO ] [DentistDaoH2:103] Iniciando la actualizacion de un odontologo
+[2024-07-14 19:40:39] [ INFO ] [DentistDaoH2:116] Se actualizo con exito el odontologo
+[2024-07-14 19:40:39] [ INFO ] [DentistDaoH2:133] Iniciando la eliminacion de un odontologo
+[2024-07-14 19:40:39] [ ERROR] [DentistDaoH2:146] Error: Error de Sintaxis en sentencia SQL "DELETE [*]* FROM DENTIST WHERE ID = ? "; se esperaba "identifier"
+Syntax error in SQL statement "DELETE [*]* FROM DENTIST WHERE ID = ? "; expected "identifier"; SQL statement:
+DELETE * FROM DENTIST WHERE ID = ?  [42001-224]
+[2024-07-14 19:40:39] [ INFO ] [DentistDaoH2:161] Iniciando la busqueda de todos los odontologos
+[2024-07-14 19:40:39] [ INFO ] [DentistDaoH2:183] Se obtuvo el odontologo: SoyGay
+[2024-07-14 19:40:39] [ INFO ] [DentistDaoH2:183] Se obtuvo el odontologo: Rica
+[2024-07-14 19:40:39] [ INFO ] [DentistDaoH2:183] Se obtuvo el odontologo: Riqui
+[2024-07-14 19:40:39] [ INFO ] [DentistDaoH2:185] Se obtuvieron con exito todos los odontologos
+[2024-07-14 19:42:27] [ INFO ] [DentistDaoH2:29] Iniciando el guardado de un odontologo
+[2024-07-14 19:42:27] [ INFO ] [DentistDaoH2:46] Se guardo el odontologo con exito!
+[2024-07-14 19:42:27] [ INFO ] [DentistDaoH2:29] Iniciando el guardado de un odontologo
+[2024-07-14 19:42:27] [ INFO ] [DentistDaoH2:46] Se guardo el odontologo con exito!
+[2024-07-14 19:42:27] [ INFO ] [DentistDaoH2:29] Iniciando el guardado de un odontologo
+[2024-07-14 19:42:27] [ INFO ] [DentistDaoH2:46] Se guardo el odontologo con exito!
+[2024-07-14 19:42:27] [ INFO ] [DentistDaoH2:66] Iniciando la busqueda de un odontologo por id
+[2024-07-14 19:42:27] [ INFO ] [DentistDaoH2:87] Consultamos el odontologo con el id: 2
+[2024-07-14 19:42:27] [ INFO ] [DentistDaoH2:103] Iniciando la actualizacion de un odontologo
+[2024-07-14 19:42:27] [ INFO ] [DentistDaoH2:116] Se actualizo con exito el odontologo
+[2024-07-14 19:42:27] [ INFO ] [DentistDaoH2:133] Iniciando la eliminacion de un odontologo
+[2024-07-14 19:42:27] [ INFO ] [DentistDaoH2:143] Se elimino el odontologo con el id: 2
+[2024-07-14 19:42:27] [ INFO ] [DentistDaoH2:161] Iniciando la busqueda de todos los odontologos
+[2024-07-14 19:42:27] [ INFO ] [DentistDaoH2:183] Se obtuvo el odontologo: SoyGay
+[2024-07-14 19:42:27] [ INFO ] [DentistDaoH2:183] Se obtuvo el odontologo: Riqui
+[2024-07-14 19:42:27] [ INFO ] [DentistDaoH2:185] Se obtuvieron con exito todos los odontologos
+[2024-07-14 20:01:45] [ INFO ] [DentistDaoH2:29] Iniciando el guardado de un odontologo
+[2024-07-14 20:01:45] [ INFO ] [DentistDaoH2:46] Se guardo el odontologo con exito!
+[2024-07-14 20:03:33] [ INFO ] [DentistDaoH2:66] Iniciando la busqueda de un odontologo por id
+[2024-07-14 20:03:34] [ INFO ] [DentistDaoH2:87] Consultamos el odontologo con el id: 1
+[2024-07-14 20:07:42] [ INFO ] [DentistDaoH2:103] Iniciando la actualizacion de un odontologo
+[2024-07-14 20:07:43] [ INFO ] [DentistDaoH2:116] Se actualizo con exito el odontologo
+[2024-07-14 20:08:54] [ INFO ] [DentistDaoH2:66] Iniciando la busqueda de un odontologo por id
+[2024-07-14 20:08:55] [ ERROR] [DentistDaoH2:89] Error: Cannot invoke "model.Dentist.getId()" because "dentist" is null
+[2024-07-14 20:10:14] [ INFO ] [DentistDaoH2:161] Iniciando la busqueda de todos los odontologos
+[2024-07-14 20:10:15] [ INFO ] [DentistDaoH2:183] Se obtuvo el odontologo: Numa
+[2024-07-14 20:10:15] [ INFO ] [DentistDaoH2:185] Se obtuvieron con exito todos los odontologos
